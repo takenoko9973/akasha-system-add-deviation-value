@@ -1,0 +1,13 @@
+{
+    "name": "AkashaSyatem_add_DeviationValue",
+    "namespace": "http://tampermonkey.net/",
+    "version": "0.1.0",
+    "description": "Akasha System 偏差値追加スクリプト",
+    "author": "Takenoko-ya",
+    "updateURL": "https://github.com/takenoko9973/akasha-system-add-deviation-value/raw/master/dist/AkashaSystemAddDeviationValue.user.js",
+    "downloadURL": "https://github.com/takenoko9973/akasha-system-add-deviation-value/raw/master/dist/AkashaSystemAddDeviationValue.user.js",
+    "supportURL": "https://github.com/takenoko9973/akasha-system-add-deviation-value/issues",
+    "match": "https://mimee.ovh/akasha/*",
+    "run-at": "document-idle",
+    "grant": "none"
+}
